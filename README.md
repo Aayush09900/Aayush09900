@@ -11,6 +11,8 @@ Building practical blockchain products with a focus on **smart contracts, wallet
 [![GitHub](https://img.shields.io/badge/GitHub-Aayush09900-181717?style=for-the-badge&logo=github)](https://github.com/Aayush09900)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aayush-kumar-blockchain/)
 
+<img src="https://raw.githubusercontent.com/Aayush09900/Aayush09900/main/assets/web3-profile.svg" width="420" alt="Minimal Web3 profile illustration" />
+
 </div>
 
 ---
@@ -121,18 +123,6 @@ I am moving from individual Web3 dApps toward **backend-heavy blockchain infrast
 - PostgreSQL transactions and consistency
 - Blockchain indexing and confirmation models
 - Security, auditability, reconciliation, and observability
-
----
-
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush09900&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush09900&layout=compact&hide_border=true&theme=transparent)
-
-</div>
 
 ---
 
