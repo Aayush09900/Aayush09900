@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/187852592?v=4" width="140" alt="Aayush Kumar profile photo" />
+<img src="https://avatars.githubusercontent.com/u/187852592?v=4" width="150" alt="Aayush Kumar profile photo" />
 
 # Aayush Kumar
 
-### Blockchain Engineer · Solidity · EVM · Web3 · Wallet Infrastructure
+### Blockchain Developer · Solidity · EVM · Web3 · Wallet Infrastructure
 
-Building practical blockchain products with a focus on **smart contracts, wallet infrastructure, transaction flows, backend services, security, and production-oriented Web3 architecture**.
+Building practical Web3 applications and learning production-grade blockchain infrastructure.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aayush09900-181717?style=for-the-badge&logo=github)](https://github.com/Aayush09900)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush%20Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aayush-kumar-blockchain/)
-
-<img src="https://raw.githubusercontent.com/Aayush09900/Aayush09900/main/assets/web3-profile.svg" width="420" alt="Minimal Web3 profile illustration" />
+[GitHub](https://github.com/Aayush09900) · [LinkedIn](https://www.linkedin.com/in/aayush-kumar-blockchain/)
 
 </div>
 
@@ -19,64 +16,78 @@ Building practical blockchain products with a focus on **smart contracts, wallet
 
 ## 👋 About Me
 
-I am a junior blockchain engineer with **8 months of professional software development experience**, focused on Ethereum/EVM development and Web3 application engineering.
+I am a junior blockchain developer with professional experience across **blockchain development and QA testing**, focused on Ethereum/EVM applications, smart contracts, wallet integrations, and reliable transaction flows.
 
-My current work and learning focus on:
+I enjoy building systems that connect application logic with blockchain infrastructure:
 
-- Solidity smart contracts and EVM transaction flows
-- ethers.js and MetaMask wallet integrations
-- Deposit, withdrawal, transfer, and confirmation flows
-- On-chain events, explorer integration, and transaction tracking
-- Blockchain frontend/backend integration
+`dApp → API → Wallet → Blockchain → Events → Confirmation → Reconciliation`
+
+### Current focus
+
+- Solidity, Ethereum, EVM, Hardhat, ethers.js
+- Wallet and MetaMask integration
+- Transaction, deposit, withdrawal, and confirmation flows
+- Blockchain indexing and event-driven applications
+- CEX architecture, custody, internal ledgers, and reconciliation
 - GitHub Actions, CI/CD, security automation, and testnet deployment
-- Backend engineering fundamentals with Java/Spring Boot and Node.js
 
-### Current Direction
-
-**Application → API → Internal Ledger → Wallet/Custody → Blockchain → Monitoring/Reconciliation**
-
-I am strengthening production-oriented skills around custodial wallets, exchange infrastructure, double-entry ledgers, reconciliation, real-time systems, security, observability, and scalable backend services.
-
-**Target roles:** Blockchain Engineer · Smart Contract Engineer · Web3 Backend Engineer · Junior CEX/Wallet Engineer
+**Open to:** Blockchain Engineer · Smart Contract Engineer · Web3 Backend Engineer · Junior CEX / Wallet Engineer
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What I built | Technologies |
-|---|---|---|
-| **Ayu Wallet** | Non-custodial Ethereum wallet with wallet connection, Sepolia enforcement, balance tracking, deposit/withdrawal/transfer flows, contract events, confirmation states, and explorer links. | Solidity · ethers.js v6 · MetaMask · JavaScript · HTML · CSS |
-| **Metaverse Flat Marketplace** | On-chain flat inventory, booking transactions, availability filtering, event activity, confirmation states, and Etherscan integration. | Solidity · ethers.js v6 · MetaMask · JavaScript · Parcel |
-| **CEX Architecture Lab** | Exchange architecture covering order management, matching-engine boundaries, internal ledger, wallet/custody, withdrawals, reconciliation, WebSockets, risk controls, KYC/AML boundaries, and observability. | Architecture · GitHub Actions · Security · Blockchain infrastructure |
-| **Blockchain Transaction Service Lab** | Backend-focused transaction processing patterns for idempotency, confirmations, retries, reconciliation, and safer blockchain integration. | Backend · Blockchain · Transaction processing |
+### 🔐 Ayu Wallet
 
-### 🔗 Project Links
+A non-custodial Ethereum wallet DApp focused on practical wallet flows.
 
-- [Ayu Wallet](https://github.com/Aayush09900/ayuwallet_daap) · [Live DApp](https://aayush09900.github.io/ayuwallet_daap/)
-- [Metaverse Flat Marketplace](https://github.com/Aayush09900/metaverse-flat-marketplace)
-- [CEX Architecture Lab](https://github.com/Aayush09900/cex-architecture-lab)
-- [Blockchain Transaction Service Lab](https://github.com/Aayush09900/blockchain-transaction-service-lab)
+**Highlights:** wallet connection, Sepolia enforcement, balances, send/receive, deposit/withdrawal, activity, contract events, confirmation states, and explorer links.
+
+**Stack:** Solidity · ethers.js v6 · MetaMask · JavaScript · HTML · CSS
+
+[Repository](https://github.com/Aayush09900/ayuwallet_daap) · [Live DApp](https://aayush09900.github.io/ayuwallet_daap/)
+
+### 🏠 Metaverse Flat Marketplace
+
+A testnet Web3 marketplace demonstrating on-chain inventory and booking flows.
+
+**Highlights:** live flat inventory, availability filtering, MetaMask integration, booking transactions, `FlatBooked` events, confirmation states, and Etherscan links.
+
+**Stack:** Solidity · ethers.js v6 · MetaMask · JavaScript · Parcel
+
+[Repository](https://github.com/Aayush09900/metaverse-flat-marketplace)
+
+### 🏦 CEX Architecture Lab
+
+A production-oriented architecture study for a centralized crypto exchange.
+
+**Focus:** order management, matching-engine boundaries, double-entry ledger, wallet/custody, withdrawals, reconciliation, WebSockets, risk controls, KYC/AML boundaries, observability, and recovery.
+
+[Repository](https://github.com/Aayush09900/cex-architecture-lab)
+
+### ⚙️ Blockchain Transaction Service Lab
+
+Backend-focused work around safer blockchain transaction processing.
+
+**Focus:** idempotency, confirmation tracking, retry handling, reconciliation, and reliable blockchain integration.
+
+[Repository](https://github.com/Aayush09900/blockchain-transaction-service-lab)
 
 > Testnet and learning projects should be independently reviewed before production use. Do not use experimental contracts for real funds.
 
 ---
 
-## 🧩 Skills & Technologies
+## 🧩 Skills
 
-### Blockchain
-`Solidity` `Ethereum` `EVM` `ethers.js` `Web3.js` `MetaMask` `Hardhat` `OpenZeppelin` `Chainlink`
+**Blockchain:** `Solidity` `Ethereum` `EVM` `ethers.js` `Web3.js` `MetaMask` `Hardhat` `OpenZeppelin` `Chainlink`
 
-### Backend
-`Java` `Spring Boot` `Node.js` `Express` `REST APIs`
+**Backend:** `Java` `Spring Boot` `Node.js` `Express` `REST APIs`
 
-### Frontend
-`JavaScript` `Angular` `HTML5` `CSS3` `Bootstrap`
+**Frontend:** `JavaScript` `Angular` `HTML5` `CSS3` `Bootstrap`
 
-### Data & Engineering
-`MongoDB` `MySQL` `Git` `GitHub Actions` `CI/CD` `API Testing`
+**Testing & Automation:** `Manual Testing` `Functional Testing` `Regression Testing` `API Testing` `Playwright` `Selenium` `Postman`
 
-### QA / Automation
-`Manual Testing` `Functional Testing` `Regression Testing` `API Testing` `Playwright` `Selenium`
+**Engineering:** `Git` `GitHub Actions` `CI/CD` `MySQL` `MongoDB` `Linux` `REST APIs`
 
 ---
 
@@ -86,43 +97,32 @@ I am strengthening production-oriented skills around custodial wallets, exchange
 **Mar 2026 – Present**
 
 - Build and test Ethereum smart contracts using Solidity, Hardhat, and Remix.
-- Develop Web3 integrations with ethers.js and MetaMask.
-- Work with Sepolia testnet deployments, transaction flows, events, and dApp integration.
-- Build projects around crowdfunding, NFT marketplaces, flat tokenization, and wallets.
+- Develop dApps with ethers.js and MetaMask integration.
+- Work with Sepolia deployments, transaction flows, events, and explorer integration.
+- Build projects involving wallets, crowdfunding, NFTs, and tokenized real estate.
 
 ### QA Tester — App Scoop Solutions Pvt. Ltd.
 **Aug 2025 – Jan 2026**
 
 - Manual, functional, regression, and API testing.
-- Exposure to automation testing with Playwright and JavaScript.
+- Exposure to Playwright and JavaScript automation.
 - Bug tracking, test reporting, and Agile development workflows.
 
 ---
 
-## 🛠️ Engineering Workflow
+## 🔐 Engineering Approach
 
-I prefer small, reviewable changes with tests and documentation:
+I prefer small, reviewable changes with documentation and automated checks:
 
-`Issue → Branch → Implementation → Tests → CI → Pull Request → Review → Merge`
+`Issue → Branch → Code → Tests → CI → Pull Request → Review → Merge`
 
-My repositories use GitHub Actions for automated validation and security checks, with secret protection and least-privilege workflow permissions.
+My repositories use secret protection, least-privilege GitHub Actions permissions, CodeQL, secret scanning, and dependency security checks where appropriate.
 
 ---
 
-## 🔐 What I Am Building Toward
+## 📚 Currently Learning
 
-I am moving from individual Web3 dApps toward **backend-heavy blockchain infrastructure**, with an emphasis on:
-
-- Double-entry ledger design
-- Wallet and custody service boundaries
-- Secure signing architecture
-- Deposit/withdrawal state machines
-- Matching-engine fundamentals
-- Redis and order-book patterns
-- WebSockets and real-time market data
-- PostgreSQL transactions and consistency
-- Blockchain indexing and confirmation models
-- Security, auditability, reconciliation, and observability
+`CEX Development` · `Wallet Infrastructure` · `Double-Entry Ledgers` · `Reconciliation` · `Real-Time Systems` · `WebSockets` · `PostgreSQL` · `Security` · `DeFi`
 
 ---
 
