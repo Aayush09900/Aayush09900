@@ -1,14 +1,27 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="170" align="center">
 <img src="https://avatars.githubusercontent.com/u/187852592?v=4" width="150" alt="Aayush Kumar profile photo" />
+</td>
+<td align="left">
 
 # Aayush Kumar
 
 ### Blockchain Developer · Solidity · EVM · Web3 · Wallet Infrastructure
 
-Building practical Web3 applications and learning production-grade blockchain infrastructure.
+Building practical Web3 applications with a focus on **smart contracts, wallet integrations, transaction flows, backend services, security, and CEX architecture**.
 
-[GitHub](https://github.com/Aayush09900) · [LinkedIn](https://www.linkedin.com/in/aayush-kumar-blockchain/)
+**Open to:** Blockchain Engineer · Smart Contract Engineer · Web3 Backend Engineer · Junior CEX / Wallet Engineer
+
+[GitHub](https://github.com/Aayush09900) · [LinkedIn](https://www.linkedin.com/in/aayush-kumar-blockchain/) · [Email](mailto:rajaayush42@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Aayush09900/Aayush09900/main/assets/profile-banner.svg" width="100%" alt="Web3 developer profile banner" />
 
 </div>
 
@@ -18,7 +31,7 @@ Building practical Web3 applications and learning production-grade blockchain in
 
 I am a junior blockchain developer with professional experience across **blockchain development and QA testing**, focused on Ethereum/EVM applications, smart contracts, wallet integrations, and reliable transaction flows.
 
-I enjoy building systems that connect application logic with blockchain infrastructure:
+I like building systems that connect application logic with blockchain infrastructure:
 
 `dApp → API → Wallet → Blockchain → Events → Confirmation → Reconciliation`
 
@@ -30,8 +43,6 @@ I enjoy building systems that connect application logic with blockchain infrastr
 - Blockchain indexing and event-driven applications
 - CEX architecture, custody, internal ledgers, and reconciliation
 - GitHub Actions, CI/CD, security automation, and testnet deployment
-
-**Open to:** Blockchain Engineer · Smart Contract Engineer · Web3 Backend Engineer · Junior CEX / Wallet Engineer
 
 ---
 
@@ -87,7 +98,7 @@ Backend-focused work around safer blockchain transaction processing.
 
 **Testing & Automation:** `Manual Testing` `Functional Testing` `Regression Testing` `API Testing` `Playwright` `Selenium` `Postman`
 
-**Engineering:** `Git` `GitHub Actions` `CI/CD` `MySQL` `MongoDB` `Linux` `REST APIs`
+**Engineering:** `Git` `GitHub Actions` `CI/CD` `MySQL` `MongoDB` `Linux`
 
 ---
 
