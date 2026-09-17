@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Aayush Kumar Web3 profile banner</title>
+  <desc id="desc">Minimal dark developer banner with Web3, blockchain and wallet themes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#4f8cff"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="178" rx="19" fill="none" stroke="#263247"/>
+  <path d="M620 0 C760 70, 850 120, 1200 45" fill="none" stroke="url(#line)" stroke-width="2" opacity=".75"/>
+  <path d="M700 180 C860 105, 970 85, 1200 125" fill="none" stroke="#334155" stroke-width="2" opacity=".65"/>
+  <g transform="translate(1060 54)">
+    <circle cx="44" cy="36" r="36" fill="#111827" stroke="#4f8cff" stroke-width="2"/>
+    <path d="M20 30 L10 12 30 20 44 7 58 20 78 12 68 30 C73 38 70 51 61 58 C52 65 36 67 27 60 C18 54 15 41 20 30Z" fill="#e8792f"/>
+    <path d="M28 42 C35 47 53 47 60 42 C60 52 53 58 44 58 C35 58 28 52 28 42Z" fill="#fff1de"/>
+    <circle cx="35" cy="34" r="3" fill="#0f172a"/>
+    <circle cx="53" cy="34" r="3" fill="#0f172a"/>
+  </g>
+  <text x="54" y="58" fill="#e5e7eb" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">BLOCKCHAIN • WEB3 • WALLET INFRASTRUCTURE</text>
+  <text x="54" y="94" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="19">Solidity · EVM · ethers.js · MetaMask · CEX architecture</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14">
+    <rect x="54" y="120" width="172" height="32" rx="16" fill="#172033" stroke="#31415d"/>
+    <text x="78" y="141" fill="#dbeafe">Open to opportunities</text>
+    <rect x="238" y="120" width="116" height="32" rx="16" fill="#172033" stroke="#31415d"/>
+    <text x="265" y="141" fill="#dbeafe">India · Remote</text>
+    <rect x="366" y="120" width="176" height="32" rx="16" fill="#172033" stroke="#31415d"/>
+    <text x="389" y="141" fill="#dbeafe">Smart contracts &amp; wallets</text>
+  </g>
+</svg>
