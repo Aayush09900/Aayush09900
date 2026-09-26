@@ -60,7 +60,7 @@ Architecture study focused on the backend boundaries of a centralized exchange.
 - Confirmation-aware settlement
 - CI, secret scanning, CodeQL, and Dependabot
 
-[Repository](https://github.com/Aayush09900/cex-architecture-lab) · [Architecture Notes](https://github.com/Aayush09900/cex-architecture-lab/blob/main/docs/architecture.md)
+[Repository](https://github.com/Aayush09900/cex-architecture-lab) · [Architecture Notes](https://github.com/Aayush09900/cex-architecture-lab/blob/main/docs/architecture.md) · [Open issue #5](https://github.com/Aayush09900/cex-architecture-lab/issues/5)
 
 ### ⚙️ Blockchain Transaction Service Lab
 
@@ -73,7 +73,7 @@ A focused backend lab for reliable transaction processing.
 - Node.js built-in tests
 - GitHub Actions CI
 
-[Repository](https://github.com/Aayush09900/Blockchain-transcation-service-lab)
+[Repository](https://github.com/Aayush09900/Blockchain-transcation-service-lab) · [Open issue #1](https://github.com/Aayush09900/Blockchain-transcation-service-lab/issues/1)
 
 ### 🏠 Metaverse Flat Marketplace
 
@@ -92,6 +92,17 @@ Sepolia property-booking DApp with on-chain inventory and confirmation flows.
 Ethereum Sepolia guest-book showing contract validation, event auditability, tests, and CI/CD.
 
 [Repository](https://github.com/Aayush09900/guestbook-dapp)
+
+## 🤝 Build With Me
+
+I am actively looking for developers who want to learn and collaborate on **Ethereum infrastructure, wallet engineering, transaction reliability, CEX architecture, and testing**.
+
+Good first contributions are intentionally small and reviewable:
+
+- [CEX Lab — define an idempotent order state machine](https://github.com/Aayush09900/cex-architecture-lab/issues/5)
+- [Transaction Service Lab — add retry/backoff tests](https://github.com/Aayush09900/Blockchain-transcation-service-lab/issues/1)
+
+If you are learning the same topics, open an issue with an idea, improvement, architecture question, or test case. I prefer collaboration that produces a real code review or documented engineering decision.
 
 ## 🧩 Technical Stack
 
